@@ -1,3 +1,6 @@
+# Tutorial can be found here
+1. [React Instagram Clone](https://pusher.com/tutorials/instagram-clone-part-1/)
+2. [Git actions to host on Git](https://github.com/gitname/react-gh-pages)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
